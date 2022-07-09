@@ -1,0 +1,23 @@
+.base {
+    background-color: #4BAF32;
+    color: #212121;
+}
+
+.pattes {
+    height: 2rem;
+    width: 2rem;
+}
+
+.violet {
+    background-color: #805CA6;
+}
+
+.background {
+    background: rgba(0, 0, 0, 0.1) url("../img/fond.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-attachment: fixed;
+    height: 100vh;
+}
