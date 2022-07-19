@@ -52,8 +52,5 @@
                     </div>
                 </div>
             </nav>
-            <div class="background">
 
-            </div>
         </header>
-    

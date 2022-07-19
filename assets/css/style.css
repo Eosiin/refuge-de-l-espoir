@@ -21,3 +21,6 @@
     background-attachment: fixed;
     height: 100vh;
 }
+.contour {
+    border: #4BAF32 1px solid;
+}
